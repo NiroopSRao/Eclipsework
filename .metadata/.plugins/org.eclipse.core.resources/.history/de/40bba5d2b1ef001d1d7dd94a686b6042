@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author niroo
+ *
+ */
+module MyThread {
+}
