@@ -1,0 +1,9 @@
+Email validation is the process of verifying that an email address is valid and can receive emails. Email validation is important to ensure that emails are delivered to the correct recipient and to prevent fraud and spam.
+
+An email validation program typically checks the format and syntax of an email address, as well as the domain and mailbox of the email address. 
+
+A regular expression for validating email addresses typically checks for the presence of an "@" symbol and a valid domain name.
+here its going to validate an email ID of an employee by their Company mail ID extension "JFK.com" if there is presence of this mail then it ruturns as a vaild mail ID...
+
+
+Once the format and syntax of the email address have been validated, the program may perform a domain check to ensure that the domain exists and is valid. The program may also perform a mailbox check by sending a test email to the email address and verifying that it is delivered.

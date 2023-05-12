@@ -1,0 +1,5 @@
+The Arithmetic Calculator project involves building a calculator that can perform basic mathematical operations.
+The project can be implemented using various programming languages such as Java, Python, C++, or JavaScript.  
+but here i have used JAVA for this project.
+
+it performs some basic arithmetic operations (addition, subtraction, multiplication, and division).
